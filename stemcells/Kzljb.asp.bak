@@ -1,0 +1,282 @@
+﻿<!--#include file="include/conn.asp"-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<head>
+<!--#include file="../inc_mobile.asp"-->
+<title>为何存储造血干细胞,造血干细胞治疗-博雅干细胞科技有限公司</title>
+<link href="../css/common.css" rel="stylesheet" type="text/css" />
+<link href="../css/else.css" rel="stylesheet" type="text/css" />
+
+    <script src="../js/jquery-1.4.min.js" type="text/javascript"></script>
+
+    <script src="../js/nav.js" type="text/javascript"></script>
+
+    <!--[if IE 6]>
+	    <script type="text/javascript" src="../js/DD_belatedPNG.js" ></script>
+	    <script type="text/javascript">
+	    DD_belatedPNG.fix('.left_side ul li a:hover,.left_side ul li.left_current a');
+	    </script>
+    <![endif]-->
+<meta name="Keywords" content="造血干细胞,为何存储造干细胞" /><meta name="Description" content="博雅干细胞库2009年成立于无锡，博雅干细胞库是由博雅干细胞科技有限公司整体运营的，有着全球知名的造血干细胞、研究团队组建，中国内地首家也是唯一一家按照国际AABB（美国血库协会）标准设计和建立的干细胞库，代表着目前该领域国际最领先的技术水平。" /></head>
+<body>
+
+    <div id="wrap">
+        
+        
+
+<script type="text/javascript"> 
+    var CurrentUrl = window.location.href;
+       function House() {
+            //alert(title);
+              window.external.addFavorite(CurrentUrl,"BOYALIFE博雅干细胞科技有限公司")
+       }
+
+</script>
+
+<!--#include file="../inc_head.asp"-->
+
+<!--#include file="../inc_nav.asp"-->
+
+        
+        <div class="lv_content">
+            
+            <div class="lv_banner1"><img src="images/banner.jpg" width="960" height="200"></div>
+            
+            <div class="lv_box">
+                
+                <div class="left_side">
+                    <div class="left_side_tit">
+                        <img src="../images/else/left_tit02.jpg" style="display: block;" />
+                    </div>
+                    
+<ul>
+    <li ><a href="index.asp" onFocus="this.blur();">干细胞简历</a></li>
+    <li><a href="Zxxb.asp" onFocus="this.blur();">脐带血干细胞</a></li><!--
+    <li><a href="Czxb.asp" onFocus="this.blur();">脐带间充质干细胞</a></li>-->
+	<li><a href="Tpxb.asp" onFocus="this.blur();">脐带/胎盘干细胞</a></li>
+	<li  class="left_current"><a href="Kzljb.asp" onFocus="this.blur();">可治疗的疾病</a></li>
+	<!--
+    <li><a href="Disease.asp" onFocus="this.blur();">可治疗的疾病</a></li>
+    <li><a href="Donation.asp" onFocus="this.blur();">互捐互赠</a></li>-->
+   <li><a href="Treatment.asp" onFocus="this.blur();">治疗案例</a></li>
+	
+    <li><a href="Research.asp" onFocus="this.blur();">研究新动态</a></li> <!--
+    <li><a href="QuickDefault.asp" onFocus="this.blur();">快速浏览</a></li>-->
+</ul>
+<div class="left_img">
+    <a href="index.asp">
+        <img src="../images/else/img01.jpg" style="display: block;" /></a>
+</div>
+
+<!--#include file="../inc_leftLastNews.asp"-->
+
+                </div>
+                
+                <div class="rignt_con">
+                    <div class="lv_tree">
+                        <div class="lv_tree_tit">
+                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;可治疗的疾病</div>
+                        <p>
+                            您现在的位置：<span><a href="../index.asp">首页</a></span> - <span><a href="index.asp">为何存储干细胞</a></span>
+                            - <span class="lv_tree_current"><a href="#">可治疗的疾病</a></span></p>
+                    </div>
+                    <div class="box">
+                        <p align="center">
+                            
+<p><span style="font-family:宋体;font-weight:700;">当前全球已批准的13项干细胞应用：</span><br></p><br>
+<table border="1" cellspacing="0" cellpadding="0"  style="background:#000000;"> 
+	<tr style="background:#FF9900;text-align:center;">  
+	<td width="72">  <b><span style="font-family:宋体;color:white;">年份</span></b>
+  </td>
+  <td width="66">  <b><span style="font-family:宋体;color:white;">国家</span></b>
+  </td>
+  <td width="150">  <b><span style="font-family:宋体;color:white;">商品名（公司）</span></b>
+  </td>
+  <td width="180">  <b><span style="font-family:宋体;color:white;">细胞来源</span></b>
+  </td>
+  <td width="180">  <b><span style="font-family:宋体;color:white;">适合症</span></b>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72"> <span>2009.10</span>
+  </td>
+  <td width="66"> <span style="font-family:宋体;">欧洲</span>
+  </td>
+  <td width="150"> <span>ChondroCelect(TiGenix)</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">自体软骨细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">膝关节软骨缺损</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2009.12</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">美国</span>
+  </td>
+  <td width="150">  <span>Prochymal</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">人异基因骨髓来源间充质干细胞</span>
+  </td>
+  <td width="180">  <span>GvHD</span><span style="font-family:宋体;">和克罗恩病</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2010.07</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">澳大利亚</span>
+  </td>
+  <td width="150">  <span>MPC(Mesoblast)</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">自体间质前体细胞产品</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">骨修复</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2011.07</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">韩国</span>
+  </td>
+  <td width="150">  <span>Hearticellgram-AMI</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">自体骨髓间充质干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">急性心梗</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2011.11</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">美国</span>
+  </td>
+  <td width="150">  <span>Hemacord(</span><span style="font-family:宋体;">纽约血液中心</span><span>)</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">脐带血造血祖细胞用于异基因造血干细胞移植</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">遗传性或获得性造血系统疾病</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2012.01</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">韩国</span>
+  </td>
+  <td width="150">  <span>Cartistem(Medi-post)</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">脐带血来源间充质干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">退行性关节炎和膝关节软骨损伤</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2012.01</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">韩国</span>
+  </td>
+  <td width="150">  <span>Cuepistem(Anrerogen)</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">自体脂肪来源间充质干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">复杂性克隆氏病并发肛瘘</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2012.05</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">加拿大</span>
+  </td>
+  <td width="150">  <span>Prochymal(Osiris)</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">骨髓干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">儿童</span><span>GvHD</span>
+  </td>
+ </tr>				
+
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2012.07</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">美国</span>
+  </td>
+  <td width="150">  <span>MultiStem</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">骨髓等来源多能成体祖细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">赫尔勒综合征</span>
+  </td>
+ </tr>
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2015.02</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">欧盟</span>
+  </td>
+  <td width="150">  <span>Holoclar</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">自体膜缘干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">（因物理或化学因素所致眼部灼伤导致的）中度至重度角膜缘干细胞缺乏症</span>
+  </td>
+ </tr>
+				
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2015.06</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">欧盟</span>
+  </td>
+  <td width="150">  <span>Stempeusel</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">骨髓来源混合间充质干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">血栓闭塞性动脉炎</span>
+  </td>
+ </tr>
+ 	
+
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2016.02</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">日本</span>
+  </td>
+  <td width="150">  <span>TEMCELL</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">骨髓间充质干细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">移植物抗宿主病</span>
+  </td>
+ </tr>
+ 
+ <tr style="background:white;text-align:center;">  
+ 	<td width="72">  <span>2016.12</span>
+  </td>
+  <td width="66">  <span style="font-family:宋体;">美国</span>
+  </td>
+  <td width="150">  <span>Maci</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">自体软骨细胞</span>
+  </td>
+  <td width="180">  <span style="font-family:宋体;">膝关节软骨损伤</span>
+  </td>
+ </tr>
+ 
+</table>
+<p><br><span style="font-family:宋体;">注：其中</span><span>75%</span><span style="font-family:宋体;">为间充质干细胞（</span><span>MSC</span><span style="font-family:宋体;">）移植</span></p>
+
+<br /></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+<!--#include file="../inc_foot.asp"-->
+
+    </div>
+<!-- boyalife.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F73b8ef2157e56c7b6d0ef7c2598feff0' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>

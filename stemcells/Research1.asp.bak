@@ -1,0 +1,33 @@
+﻿<!--#include file="include/conn.asp"-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<head>
+<title>为何存储干细胞（博雅干细胞库）-BOYALIFE博雅干细胞科技有限公司</title>
+<link href="../css/common.css" rel="stylesheet" type="text/css" />
+<link href="../css/else.css" rel="stylesheet" type="text/css" />
+
+    <script src="../js/jquery-1.4.min.js" type="text/javascript"></script>
+
+    <script src="../js/nav.js" type="text/javascript"></script>
+
+    <!--[if IE 6]>
+	    <script type="text/javascript" src="../js/DD_belatedPNG.js" ></script>
+	    <script type="text/javascript">
+	    DD_belatedPNG.fix('.left_side ul li a:hover,.left_side ul li.left_current a');
+	    </script>
+    <![endif]-->
+<meta name="Keywords" content="博雅干细胞库,符合国际标准的高端干细胞库,国际干细胞联合研究中心,无锡国际干细胞联合研究中心" /><meta name="Description" content="博雅干细胞库2009年成立于无锡，博雅干细胞库是由博雅干细胞科技有限公司整体运营的，由来自全球知名的干细胞存储、研究团队组建，中国内地首家也是唯一一家按照国际AABB（美国血库协会）标准设计和建立的干细胞库，代表着目前该领域国际最领先的技术水平。" /></head>
+<body>
+
+    <div id="wrap">
+        
+        
+
+                        <%
+						if request("id")="" then
+						  call Research1 
+						else
+						  call showTreatment1(request("id"))
+						end if
+						%>

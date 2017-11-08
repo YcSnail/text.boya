@@ -1,0 +1,9 @@
+﻿<!--#include file="include/conn.asp"-->
+
+                        <%
+						if request("id")="" then
+						  call newstest
+						else
+						  call shownewstest(request("id"))
+						end if
+						%>

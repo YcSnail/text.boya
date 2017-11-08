@@ -1,0 +1,18 @@
+@charset "utf-8";
+.MainPanelCss {width:556px;height:350px;background:url(../images/v_bg4.gif) no-repeat 0 0;margin:0 auto;}
+.MainPanelCss_content{ padding:80px 15px 15px 25px;height:220px;}
+.bottom_txt{ text-align:right; padding-right:30px}
+.dateset{ font-family:微软雅黑,黑体; font-size:14px; line-height:170%; }
+.dateset input{ font-weight:bold; font-family:微软雅黑,Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; border:1px solid #F17410; padding:3px;}
+.set_year{ width:80px; height:20px;}
+.set_month{ width:40px; height:20px;}
+.set_day{ width:40px; height:20px;}
+.set_cycle{ width:40px; height:20px;}
+.dateset .button{ border:0; width:}
+#weeks{ padding:0 8px; color:#F46E03; font-weight:bold; font-size:18px}
+.born_year{ width:80px; height:20px;}
+.born_month{ width:40px; height:20px;}
+.born_day{ width:40px; height:20px;}
+
+.born_days{border:0; width:200px; height:80px; margin-left:150px; margin-top:20px;  background:url(../images/born_days_bg.jpg) no-repeat center; padding:0; text-align:center; }
+
