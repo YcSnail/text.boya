@@ -101,7 +101,7 @@
                                         <p style="line-height: 25px; height: 25px;">
                                             <img src="../images/else/wjx_ico.jpg" align="absmiddle" />&nbsp;&nbsp;该合作将从事干细胞的提取、研究、重大疾病干细胞的鉴定、诊断、治疗和新药开发</p>
                                         <p style="line-height: 25px; height: 25px;">
-                                            <img src="../images/else/wjx_ico.jpg" align="absmiddle" />&nbsp;&nbsp;中国首家也是唯一一家通过美国aabb标准与世界卫生组织nrl标准双重认证的临床级干细胞库，代表着目前该领域国际领先的技术水平</p>
+                                            <img src="../images/else/wjx_ico.jpg" align="absmiddle" />&nbsp;&nbsp;中国首家也是唯一一家通过美国AABB标准与世界卫生组织NRL标准双重认证的临床级干细胞库，代表着目前该领域国际领先的技术水平</p>
                                     </td>
                                 </tr>
                             </table>
@@ -127,12 +127,12 @@
                                         Ⅰ
                                     </td>
                                     <td>
-                                        研究中心-i、ii
+                                        研究中心-I、II
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        aabb标准干细胞库
+                                        AABB标准干细胞库
                                     </td>
                                     <td>
                                         Ⅰ
@@ -154,7 +154,7 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        gmp干细胞中试基地
+                                        GMP干细胞中试基地
                                     </td>
                                     <td>
                                         Ⅰ
@@ -198,7 +198,7 @@
                                         临床移植中心（医院）
                                     </td>
                                     <td>
-                                        ii
+                                        II
                                     </td>
                                 </tr>
                                 <tr>
@@ -206,7 +206,7 @@
                                         辅助功能模块
                                     </td>
                                     <td>
-                                        ii
+                                        II
                                     </td>
                                     <td>
                                         <p>
@@ -402,18 +402,20 @@
                                 </ul>
                             </div>
                         </div>
-                            <script type="text/javascript">
-								jquery(document).ready(function() {			
-								 $(".service_tab ul li").click(function(){
-								 $(".multi_con").hide().eq($(".service_tab ul li").removeclass().index($(this).addclass("service_tab_current"))).show(); 	
-								 });
-								 
-								 $(".multi_tab ul li").click(function(){
-								 $(".multi_box").hide().eq($(".multi_tab ul li").removeclass().index($(this).addclass("multi_tab_current"))).show(); 	
-								 });
-								 
-								});
-							</script>
+
+                        <script type="text/javascript">
+                            jQuery(document).ready(function() {
+                             $(".service_tab ul li").click(function(){
+                             $(".multi_con").hide().eq($(".service_tab ul li").removeClass().index($(this).addClass("service_tab_current"))).show();
+                             });
+
+                             $(".multi_tab ul li").click(function(){
+                             $(".multi_box").hide().eq($(".multi_tab ul li").removeClass().index($(this).addClass("multi_tab_current"))).show();
+                             });
+
+                            });
+                        </script>
+
                     </div>
                 </div>
             </div>

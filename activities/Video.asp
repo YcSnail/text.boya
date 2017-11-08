@@ -66,70 +66,81 @@
 
 
                 </div>
-                
+
                 <div class="rignt_con">
-                    <div class="lv_tree">
-                        <div class="lv_tree_tit">
-                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;在线视频</div>
-                        <p>
-                            您现在的位置：<span><a href="../index.html">首页</a></span> - <span><a href="action.html">资料库</a></span>
-                            - <span class="lv_tree_current"><a href="#">在线视频</a></span></p>
-                    </div>
-                    <div class="box">
-                        <div class="videobox">
-                            <%
-							set rs=server.createobject("adodb.recordset")
-							sql="select * from tb_video order by "&newspxmethod
-							rs.open sql,conn,1,1
-							titlechrnum=50
-							rs.pagesize =4
-							page=clng(request("page"))
-							if page<=0 then page=1 
-							if page > rs.pagecount then page=rs.pagecount
-							if not rs.eof then rs.absolutepage=page
-							for i=1 to 2
-							if rs.eof then exit for
-							%>
-							<ul>
-                                <%
-								for j=1 to 2
-								if rs.eof then exit for
-								%>
-                                <li>
-                                    <div class="videoimg">
-                                        <a href="<%=rs("linkurl")%>" target="_blank">
-                                            <img src="../<%=rs("pic")%>" width="291" height="219" style="display: block;" /></a>
+                                    <div class="lv_tree">
+                                        <div class="lv_tree_tit">
+                                            <img src="../images/default/ico01.jpg" align="absmiddle" data-bd-imgshare-binded="1">&nbsp;&nbsp;在线视频</div>
+                                        <p>
+                                            您现在的位置：<span><a href="../index.html">首页</a></span> - <span><a href="action.html">资料库</a></span>
+                                            - <span class="lv_tree_current"><a href="#">在线视频</a></span></p>
                                     </div>
-                                    <div class="video_tit">
-                                        <p><%=rs("filename")%></p>
+                                    <div class="box">
+                                        <div class="videobox">
+
+                							<ul>
+
+                                                <li>
+                                                    <div class="videoimg">
+                                                        <a href="https://v.qq.com/x/page/f0529jk1n7l.html" target="_blank">
+                                                            <img src="../uploadfiles/2017726/2017726151845515.jpg" width="291" height="219" style="display: block;" data-bd-imgshare-binded="1"></a>
+                                                    </div>
+                                                    <div class="video_tit">
+                                                        <p>博雅控股集团布局干细胞全产业链</p>
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="videoimg">
+                                                        <a href="https://v.qq.com/x/page/p0529na0gzl.html" target="_blank">
+                                                            <img src="../uploadfiles/2017726/2017726152320548.JPG" width="291" height="219" style="display: block;" data-bd-imgshare-binded="1"></a>
+                                                    </div>
+                                                    <div class="video_tit">
+                                                        <p>博雅助力中国转化医学大会</p>
+                                                    </div>
+                                                </li>
+
+                                            </ul>
+                                            <div style="clear:both;"></div>
+
+                							<ul>
+
+                                                <li>
+                                                    <div class="videoimg">
+                                                        <a href="https://v.qq.com/x/page/g0376d49thr.html" target="_blank">
+                                                            <img src="../uploadfiles/2017223/2017223173611934.jpg" width="291" height="219" style="display: block;" data-bd-imgshare-binded="1"></a>
+                                                    </div>
+                                                    <div class="video_tit">
+                                                        <p>干细胞是什么？——博雅科普</p>
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="videoimg">
+                                                        <a href="https://v.qq.com/x/page/t0367ck48ov.html" target="_blank">
+                                                            <img src="../uploadfiles/2017122/201712211255165.png" width="291" height="219" style="display: block;" data-bd-imgshare-binded="1"></a>
+                                                    </div>
+                                                    <div class="video_tit">
+                                                        <p>博雅控股集团2017年集团宣传片</p>
+                                                    </div>
+                                                </li>
+
+                                            </ul>
+                                            <div style="clear:both;"></div>
+
+                                            <div id="pgarticle" style=" padding-top:10px;">
+
+                <p style="padding:15px 0">
+                <style>.digg4 { padding:3px; color:#ff6500; margin:3px; text-align:center; font-family: Tahoma, Arial, Helvetica, Sans-serif; font-size: 12px;}.digg4 a { border:1px solid  #ff9600; padding:2px 7px 2px 7px; background-position:50% bottom; margin:2px; color:#ff6500; background-image:url(../image/page6.jpg); text-decoration:none;}.digg4 a:hover { border:1px solid #ff9600; color:#ff6500; background-color:#ffc794;}.digg4 a:active {border:1px solid #ff9600; color:#ff6500; background-color:#ffc794;}.digg4 span.current {border:1px solid #ff6500; padding:2px 7px 2px 7px; margin:2px; color:#ff6500; background-color:#ffbe94; text-decoration:none;}.digg4 span.disabled { border:1px solid #ffe3c6; padding:2px 7px 2px 7px; margin:2px; color:#ffe3c6;} </style></p><div class="digg4"><span class="disabled" style="font-family: Tahoma, Verdana;" title="首页"><b>«</b></span><span class="disabled" style="font-family: Tahoma, Verdana;" title="上10页">‹</span><span class="current">1</span> <a href="?page=2">2</a>  <a href="?page=3">3</a>  <a href="?page=4">4</a>  <a href="?page=5">5</a>  <a href="?page=6">6</a>  <a href="?page=7">7</a>  <a href="?page=8">8</a>  <a href="?page=9">9</a>  <a href="?page=10">10</a> <span class="disabled" style="font-family: Tahoma, Verdana;" title="下10页">›</span><a style="font-family: Tahoma, Verdana;" href="?page=10" title="末页"><b>»</b></a></div>
+                <p></p>
+
+                                            </div>
+
+
+                                        </div>
                                     </div>
-                                </li>
-                                <%
-								rs.movenext
-								next
-								%>
-                            </ul>
-                            <div style="clear:both;"></div>
-							<%
-							next
-							%>
-                            <div id="pgarticle" style=" padding-top:10px;">
-                                
-<p style="padding:15px 0">
-<%
-pageobj.pageskin=6
-pageobj.img_path="../image/"
-response.write pageobj.link(rs.recordcount,rs.pagesize,page,"?page=",qrystring)
-%>
-</p>
+                                </div>
 
-                            </div>
-                            
-
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
         
         

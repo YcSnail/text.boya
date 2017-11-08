@@ -159,13 +159,14 @@
                  
                  
                   </div>
-                <script type="text/javascript">
-					jquery(document).ready(function() {			
-					 $(".service_tab ul li").click(function(){
-					 $(".service_box").hide().eq($(".service_tab ul li").removeclass().index($(this).addclass("service_tab_current"))).show(); 	
-					 });
-					});
-				</script>
+                  <script type="text/javascript">
+                  					jQuery(document).ready(function() {
+                  					 $(".service_tab ul li").click(function(){
+                  					 $(".service_box").hide().eq($(".service_tab ul li").removeClass().index($(this).addClass("service_tab_current"))).show();
+                  					 });
+                  					});
+                  </script>
+
               </div>
                 </div>
             </div>

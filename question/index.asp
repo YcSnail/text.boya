@@ -60,7 +60,7 @@
                     </div>
                     
 <ul>
-    <li  class="left_current" ><a href="index.html" onfocus="this.blur();">干细胞q&a</a></li>
+    <li  class="left_current" ><a href="index.html" onfocus="this.blur();">干细胞Q&A</a></li>
     <li><a href="nous.html" onfocus="this.blur();">干细胞的业务常识</a></li>
 	 <li><a href="myq.html" onfocus="this.blur();">免疫细胞常见问题</a></li><!--
     <li><a href="insurance.html" onfocus="this.blur();">附赠保险的内容</a></li>-->
@@ -78,7 +78,7 @@
                 <div class="rignt_con">
                     <div class="lv_tree">
                         <div class="lv_tree_tit">
-                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;干细胞q&a</div>
+                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;干细胞Q&A</div>
                         <p>
                             您现在的位置：<span><a href="../index.html">首页</a></span> - <span><a href="index.html">常见问题</a></span>
                             - <span class="lv_tree_current"><a href="#">干细胞知识</a></span></p>

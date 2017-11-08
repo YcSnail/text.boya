@@ -66,221 +66,220 @@
 
 
                 </div>
-                
+
                 <div class="rignt_con">
-                    <div class="lv_tree">
-                        <div class="lv_tree_tit">
-                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;安全期计算器</div>
-                        <p>
-                            您现在的位置：<span><a href="../index.html">首页</a></span> - <span><a href="index.html">孕育家园</a></span>
-                            - <span class="lv_tree_current"><a href="#">安全期计算器</a></span></p>
+                                    <div class="lv_tree">
+                                        <div class="lv_tree_tit">
+                                            <img src="../images/default/ico01.jpg" align="absmiddle">&nbsp;&nbsp;安全期计算器</div>
+                                        <p>
+                                            您现在的位置：<span><a href="../index.asp">首页</a></span> - <span><a href="index.asp">孕育家园</a></span>
+                                            - <span class="lv_tree_current"><a href="#">安全期计算器</a></span></p>
+                                    </div>
+                                    <div class="box">
+
+
+                <link href="css/female.css" rel="stylesheet" type="text/css">
+                <script type="text/javascript" src="js/female.js"></script>
+                <script type="text/javascript" src="js/tangram.js"></script>
+                <script type="text/javascript">
+                	//* background *//
+                var linkArgs = location.search;
+                var styleObj = baidu.page.createStyleSheet();
+                if(linkArgs.indexOf("canvas_pos=search") == -1){
+                	styleObj.addRule(".femalePanelCss","width:685px !important;height:auto;padding-top:10px;margin:0 auto;",0);
+                }else{
+                	try{
+                	styleObj.removeRule(0);
+                	}catch(e){}
+                }
+                </script>
+                <input type="hidden" style="display:none;" id="nowElement">
+                <div class="femalePanelCss">
+                	<div class="femaleMainPanelCss">
+                   	  <div class="femaleMainTopCss">
+                            <div id="resetDiv" style="visibility:hidden;">
+                                <input type="button" value="" class="reBtnCss" onclick="window.location.href='index.asp';">
+                            </div>
+                            <div class="setTitleCss">
+                                <div class="setTitleMainCss"></div>
+                                <div class="setLeftCss"><a href="javascript:void(0);" onclick="female.fallOff();"></a></div>
+                                <div class="valCss"><input type="text" id="minMensesPriod" value="28" maxlength="2"></div>
+                                <div class="setRightCss"><a href="javascript:void(0);" onclick="female.increase();"></a></div>
+                            </div>
+                        </div>
+                        <div class="femaleMainCss">
+                        	<div id="popCss"><span>请点击选择月经第一天</span></div>
+                        	<div id="leftCal">
+                            	<div class="calTopCss">
+                                	<div class="topContainerCss" id="leftContainerDiv">
+                                    	<div class="fontCss"><span id="leftYear">2017</span>年</div>
+                                        <div id="yearDiv" class="setTimeCss"><a href="javascript:void(0);" id="yearLink"></a></div>
+                                        <div class="fontCss" style="margin-left:6px;"><span id="leftMonth">11</span>月</div>
+                                        <div id="monthDiv" class="setTimeCss"><a href="javascript:void(0);" id="monthLink"></a></div>
+                                    </div>
+                                </div>
+                                <div class="calMainCss">
+                                <table id="leftTable" cellpadding="0" cellspacing="0" border="0">
+                                	<tbody><tr style="background-color:#f4f4f4;">
+                                    	<td class="shoubiao">日</td>
+                                        <td class="shoubiao">一</td>
+                                        <td class="shoubiao">二</td>
+                                        <td class="shoubiao">三</td>
+                                        <td class="shoubiao">四</td>
+                                        <td class="shoubiao">五</td>
+                                        <td class="shoubiao">六</td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">1</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">2</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">3</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">4</td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">5</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">6</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">7</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">8</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">9</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">10</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">11</td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">12</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">13</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">14</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">15</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">16</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">17</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">18</td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">19</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">20</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">21</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">22</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">23</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">24</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">25</td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">26</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">27</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">28</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">29</td>
+                                        <td class="shoubiao1" style="background: url(&quot;images/green.gif&quot;);">30</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td class="shoubiao1" style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                    </tr>
+                                </tbody></table>
+                                </div>
+                            </div>
+                			<div id="rightCal" style="display:none;">
+                           	  <div class="calTopCss">
+                                	<div class="topContainerCss" style="margin-left:35%;">
+                                    	<div class="fontCss"><span id="rightYear">2017</span>年</div>
+                                        <div class="fontCss" style="margin-left:6px;"><span id="rightMonth">12</span>月</div>
+                                    </div>
+                                </div>
+                                <div class="calMainCss">
+                                <table id="rightTable" cellpadding="0" cellspacing="0" border="0">
+                                	<tbody><tr style="background-color:#f4f4f4;">
+                                    	<td>日</td>
+                                        <td>一</td>
+                                        <td>二</td>
+                                        <td>三</td>
+                                        <td>四</td>
+                                        <td>五</td>
+                                        <td>六</td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">1</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">2</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">3</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">4</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">5</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">6</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">7</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">8</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">9</td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="background: url(&quot;images/green.gif&quot;);">10</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">11</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">12</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">13</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">14</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">15</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">16</td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="background: url(&quot;images/green.gif&quot;);">17</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">18</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">19</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">20</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">21</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">22</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">23</td>
+                                    </tr>
+                                    <tr>
+                                     	<td style="background: url(&quot;images/green.gif&quot;);">24</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">25</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">26</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">27</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">28</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">29</td>
+                                        <td style="background: url(&quot;images/green.gif&quot;);">30</td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="background: url(&quot;images/green.gif&quot;);">31</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                        <td style="background: rgb(255, 255, 255);">&nbsp;</td>
+                                    </tr>
+                                </tbody></table>
+                                </div>
+                            </div>
+                      </div>
+                        <div class="femaleBottomCss">
+
+                        <span>注：此计算结果仅供参考</span></div>
                     </div>
-                    <div class="box">
-                        
-                        
-<link href="css/female.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/female.js"></script>
-<script type="text/javascript" src="js/tangram.js"></script>
-<script type="text/javascript">
-	//* background *//
-var linkargs = location.search;
-var styleobj = baidu.page.createstylesheet();
-if(linkargs.indexof("canvas_pos=search") == -1){
-	styleobj.addrule(".femalepanelcss","width:685px !important;height:auto;padding-top:10px;margin:0 auto;",0);
-}else{
-	try{
-	styleobj.removerule(0);
-	}catch(e){}
-}
-</script>
-<input type="hidden" style="display:none;" id="nowelement" />
-<div class="femalepanelcss">
-	<div class="femalemainpanelcss">
-   	  <div class="femalemaintopcss">
-            <div id="resetdiv" style="visibility:hidden;">
-                <input type="button" value="" class="rebtncss" onclick="window.location.href='index.asp';" />
-            </div>
-            <div class="settitlecss">
-                <div class="settitlemaincss"></div>
-                <div class="setleftcss"><a href="javascript:void(0);" onclick="female.falloff();"></a></div>
-                <div class="valcss" ><input type="text" id="minmensespriod" value="28" maxlength="2" /></div>
-                <div class="setrightcss"><a href="javascript:void(0);" onclick="female.increase();"></a></div>
-            </div>
-        </div>
-        <div class="femalemaincss">
-        	<div id="popcss"><span>请点击选择月经第一天</span></div>
-        	<div id="leftcal">
-            	<div class="caltopcss">
-                	<div class="topcontainercss" id="leftcontainerdiv">
-                    	<div class="fontcss"><span id="leftyear">2010</span>年</div>
-                        <div id="yeardiv" class="settimecss"><a href="javascript:void(0);" id="yearlink"></a></div>
-                        <div class="fontcss" style="margin-left:6px;"><span id="leftmonth">11</span>月</div>
-                        <div id="monthdiv" class="settimecss"><a href="javascript:void(0);" id="monthlink"></a></div>
-                    </div>
+                        <div class="femaleFootPanelCss">
+                            <div class="footIntroCss"></div>
+                        </div>
                 </div>
-                <div class="calmaincss">
-                <table id="lefttable" cellpadding="0" cellspacing="0" border="0">
-                	<tr style="background-color:#f4f4f4;">
-                    	<td class="shoubiao">日</td>
-                        <td class="shoubiao">一</td>
-                        <td class="shoubiao">二</td>
-                        <td class="shoubiao">三</td>
-                        <td class="shoubiao">四</td>
-                        <td class="shoubiao">五</td>
-                        <td class="shoubiao">六</td>
-                    </tr>
-                    <tr>
-                    	<td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                    </tr>
-                    <tr>
-                    	<td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                    </tr>
-                    <tr>
-                    	<td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                    </tr>
-                    <tr>
-                    	<td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                    </tr>
-                    <tr>
-                    	<td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                    </tr>
-                    <tr>
-                    	<td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                        <td class="shoubiao1"></td>
-                    </tr>
-                </table>
-                </div>
-            </div>
-			<div id="rightcal" style="display:none;">
-           	  <div class="caltopcss">
-                	<div class="topcontainercss" style="margin-left:35%;">
-                    	<div class="fontcss"><span id="rightyear">2010</span>年</div>
-                        <div class="fontcss" style="margin-left:6px;"><span id="rightmonth">11</span>月</div>
-                    </div>
-                </div>
-                <div class="calmaincss">
-                <table id="righttable" cellpadding="0" cellspacing="0" border="0">
-                	<tr style="background-color:#f4f4f4;">
-                    	<td>日</td>
-                        <td>一</td>
-                        <td>二</td>
-                        <td>三</td>
-                        <td>四</td>
-                        <td>五</td>
-                        <td>六</td>
-                    </tr>
-                    <tr>
-                    	<td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>                    	
-                    	<td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>                    
-                    	<td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>                   
-                     	<td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>                    
-                    	<td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                </table>
-                </div>
-            </div>
-      </div>
-        <div class="femalebottomcss">
-        
-        <span>注：此计算结果仅供参考</span></div>
-    </div>
-        <div class="femalefootpanelcss">
-            <div class="footintrocss"></div>
-        </div>
-</div>
-<div id="poppanel"></div>
-<div id="titlepanel"></div>
-                        
-                        
-                        
-                        
-                        
-                        
-                    </div>
-                </div>
-            </div>
+                <div id="popPanel"></div>
+                <div id="titlePanel"></div>
+
+
+
+
+
+
+                                    </div>
+                                </div>
         </div>
         
         

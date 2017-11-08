@@ -395,18 +395,18 @@
                             <p>&nbsp;
                                 </p>
                         </div>
-                            <script type="text/javascript">
-								jquery(document).ready(function() {			
-								 $(".service_tab2 ul li").click(function(){
-								 $(".multi_con").hide().eq($(".service_tab2 ul li").removeclass().index($(this).addclass("service_tab_current2"))).show(); 	
-								 });
-								 
-								 $(".multi_tab ul li").click(function(){
-								 $(".multi_box").hide().eq($(".multi_tab ul li").removeclass().index($(this).addclass("multi_tab_current"))).show(); 	
-								 });
-								 
-								});
-							</script>
+							<script type="text/javascript">
+                                jQuery(document).ready(function() {
+                                 $(".service_tab2 ul li").click(function(){
+                                 $(".multi_con").hide().eq($(".service_tab2 ul li").removeClass().index($(this).addClass("service_tab_current2"))).show();
+                                 });
+
+                                 $(".multi_tab ul li").click(function(){
+                                 $(".multi_box").hide().eq($(".multi_tab ul li").removeClass().index($(this).addClass("multi_tab_current"))).show();
+                                 });
+
+                                });
+                            </script>
                     </div>
                     </div>
                 </div>

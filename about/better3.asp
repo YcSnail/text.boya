@@ -84,7 +84,7 @@
                 <div class="rignt_con">
                     <div class="lv_tree">
                         <div class="lv_tree_tit">
-                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;唯一获得美国fda批准的ⅲ期干细胞技术企业</div>
+                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;唯一获得美国FDA批准的III期干细胞技术企业</div>
                         <p>
                             您现在的位置：<span><a href="../index.html">首页</a></span> - <span><a href="index.html">关于博雅</a></span>
                             - <span class="lv_tree_current"><a href="#">四大优势</a></span></p>
@@ -99,7 +99,7 @@
 													</td>
 												</tr>
 												<tr>
-														<td><p>博雅是国内唯一拥有美国fda批准进入ⅲ期临床治疗下肢缺血（cli）的干细胞企业，与北京宣武医院合作获2015年中华医学科技一等奖。
+														<td><p>博雅是国内唯一拥有美国FDA批准进入ⅲ期临床治疗下肢缺血（CLI）的干细胞企业，与北京宣武医院合作获2015年中华医学科技一等奖。
 </p>
 														<p>&nbsp; </p>
 																		<p>博雅致力于研发安全有效的临床即时自体细胞疗法，重症下肢缺血是博雅众多临床研究项目中的一个，此外，还有针对心血管疾病和骨科疾病，正在进行的i 期/ii期干细胞疗法研究。
