@@ -72,7 +72,7 @@
 	  <li  ><a href="jyzl.html" onfocus="this.blur();">&nbsp;&nbsp;肿瘤</a></li>
 	  <li  ><a href="jydx.html" onfocus="this.blur();">&nbsp;&nbsp;单项</a></li>
 	  <li  ><a href="jyqt.html" onfocus="this.blur();">&nbsp;&nbsp;其他</a></li>
-	  <li  ><a href="jyjcqa.html" onfocus="this.blur();">基因检测q&a</a></li>
+	  <li  ><a href="jyjcqa.html" onfocus="this.blur();">基因检测Q&A</a></li>
 
  		
  		

@@ -88,6 +88,12 @@
                         <table width="100%">
                             <tr>
                                 <td >
+
+                                            <p >&nbsp;</p>
+                                            <p align="center" ><img src="images/20171108.jpg" width="600" height="399" /></p>
+                                            <p align="center" ><strong> 博雅控股集团2017秋季活动</strong></p>
+                                            <p >11月4日，博雅控股集团开展了“鼓动人心，舞动全场”2017秋季团建活动，来自集团总部以及江苏区域销售员工前往常州溧阳生态农业山庄开展活动。</p>
+
                                             <p >&nbsp;</p>
                                             <p align="center" ><img src="images/20170930.jpg" width="600" height="399" /></p>
                                             <p align="center" ><strong> 2017年博雅北京公司秋季团建活动</strong></p>

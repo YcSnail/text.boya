@@ -65,7 +65,7 @@
                     </div>
                     
 <ul>
-    <li><a href="index.html" onfocus="this.blur();">干细胞q&a</a></li>
+    <li><a href="index.html" onfocus="this.blur();">干细胞Q&A</a></li>
     <li><a href="nous.html" onfocus="this.blur();">干细胞的业务常识</a></li>
 	 <li  class="left_current" ><a href="myq.html" onfocus="this.blur();">免疫细胞常见问题</a></li><!--
     <li><a href="insurance.html" onfocus="this.blur();">附赠保险的内容</a></li>-->

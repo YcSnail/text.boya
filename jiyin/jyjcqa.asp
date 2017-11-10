@@ -73,7 +73,7 @@
 	  <li    ><a href="jyzl.html" onfocus="this.blur();">&nbsp;&nbsp;肿瘤</a></li>
 	  <li ><a href="jydx.html" onfocus="this.blur();">&nbsp;&nbsp;单项</a></li>
 	  <li   ><a href="jyqt.html" onfocus="this.blur();">&nbsp;&nbsp;其他</a></li>
-	  <li  class="left_current" ><a href="jyjcqa.html" onfocus="this.blur();">基因检测q&a</a></li>
+	  <li  class="left_current" ><a href="jyjcqa.html" onfocus="this.blur();">基因检测Q&A</a></li>
 
  		
  		
@@ -91,10 +91,10 @@
                 <div class="rignt_con">
                     <div class="lv_tree">
                         <div class="lv_tree_tit">
-                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;基因检测q&a</div>
+                            <img src="../images/default/ico01.jpg" align="absmiddle" />&nbsp;&nbsp;基因检测Q&A</div>
                         <p>
                             您现在的位置：<span><a href="../index.html">首页</a></span> - <span><a href="index.html">基因检测计划</a></span>
-                            - <span class="lv_tree_current"><a href="#">基因检测q&a</a></span></p>
+                            - <span class="lv_tree_current"><a href="#">基因检测Q&A</a></span></p>
                     </div>
                     <div class="box">
                     	

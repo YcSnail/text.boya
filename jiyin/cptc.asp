@@ -63,16 +63,11 @@
                     
 <ul>
 
-
-	  <li  ><a href="index.html" onfocus="this.blur();">基因检测q&a</a></li>
+	  <li  ><a href="index.html" onfocus="this.blur();">基因检测Q&A</a></li>
 	  <li  ><a href="jsys.html" onfocus="this.blur();">技术优势</a></li>
 	  <li  ><a href="fwlc.html" onfocus="this.blur();">服务流程</a></li>
 	  <li class="left_current" ><a href="cptc.html" onfocus="this.blur();">检测套餐</a></li>
 
-
- 		
- 		
- 		
     </ul>
 <div class="left_img">
     <a href="../stemcells/index.html">
